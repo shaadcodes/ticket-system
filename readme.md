@@ -4,8 +4,8 @@ A simple backend service for a ticket system where users can register, login, cr
 
 ## Live Deployment
 
-- **Deployed URL:** `https://shaads-ticket-system-production.up.railway.app`
-- **Health Check:** `https://shaads-ticket-system-production.up.railway.app/health`
+- **Deployed URL:** `https://ticket-system-api-6qha.onrender.com`
+- **Health Check:** `https://ticket-system-api-6qha.onrender.com/health`
 
 ## Local Run Instructions
 
